@@ -1,0 +1,43 @@
+For problem a:
+The program is Project2_a.py.
+You can run it directly to get the result.
+
+For problem b:
+The program is Project2_b.py.
+You can run it directly to get the shape of TFxIDF matrix to see the number of terms in the documents.
+
+For problem c:
+The program is Project2_c.py.
+You can run it directly to see the 10 most important terms in the 4 classes.
+
+For problem d:
+The program is Project2_data_output.py. 
+It will write 2 .csv files which include the matrices after transformation and labels used for 2 class classification 
+in problem e to h. Since we have include the .csv files in our submission, you can use these files directly 
+for results of problem e to h.We also use program Project2_data_output_2.py to get 2 .csv files for multiclassification 
+in problem i.
+
+For problem e:
+The program is Project2_e.py.
+Firstly, you should put our .csv files in the same directory as this program. Then, you can run the program directly to 
+get the results.
+
+For problem f:
+The program is Project2_f.py.
+Firstly, you should put our .csv files in the same directory as this program. Then, you can run the program directly to
+get the result.
+
+For problem g:
+File Project2_g.py solves the problem g)naive Bayes algorithm 
+To use this program, you should include the program with "test_out.csv" and "train_out.csv" in the same folder.
+
+For problem h:
+The program is Project2_h.py.
+Firstly, you should put our .csv files in the same directory as this program. Then, you can run the program directly to
+get the result.
+
+For problem i:
+Firstly, you should put our multitest_out.csv and multitrain_out.csv in the same directory  as for the following .py files
+(1) for Naive Bayes classifier, run the Project2_i_Bayes.py file to get the result.
+(2) for OneVSOne classifier, run the Project2_i_1v1.py file to get the result.
+(3) for OneVSRest classifier, run the Project2_i_1vr.py file to get the result.
