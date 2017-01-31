@@ -1,0 +1,20 @@
+for problem1
+run file Prj_pb1.m and wnmfrule.m
+
+for problem2
+run file Prj3_pb2.m and wnmfrule.m
+change the line 34 in Prj3_pb2.m for different k
+
+for problem 3
+run Prj3_pb3.m and wnmfrule.m
+
+for problem 4
+to calculate the total squared error, run Prj3_pb4_1.m and wnmfrule1.m
+also change line 71 in wnmfrule1.m for different lambda
+
+to draw  the ROC curve, run Prj3_pb4_2.m and wnmfrule1.m
+also change line 71 in wnmfrule1.m and line 21 in Prj3_pb4_2.m for different lambda and k
+
+for problem 5
+to calculate the precision, run Prj3_pb5_1.m and wnmfrule1.m
+to calculate the hit rate and false-alarm rate, run Prj3_pb5_2.m and wnmfrule1.m
